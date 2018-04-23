@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7f4a9df-946d-4c1a-9f14-f5ba856d4f42" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="customer.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/customer.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/xvol/chapter3/service/CustomerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseHelper.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/DatabaseHelper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/xvol/chapter3/controller/CustomerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-565">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+                <element signature="e#1014#1015#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customer_edit.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/customer_edit.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DispatcherServlet.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/DispatcherServlet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectionUtil.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/util/ReflectionUtil.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="788">
+              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassHelper.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/ClassHelper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#885#886#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanHelper.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/BeanHelper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-233">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ControllerHelper.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/ControllerHelper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="60" column="61" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>customer_edit</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/xvol/chapter3/model/Customer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/xvol/chapter3/test/CustomerServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/xvol/chapter3/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/smart.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/customer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/xvol/chapter3/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/customer_edit.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="chapter3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="chapter3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="chapter3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="65" />
+    <option name="y" value="36" />
+    <option name="width" value="1588" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.42068964" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\XV\IdeaProjects\chapter3\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.chapter3 [tomcat7:run]">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CustomerServiceTest.getCustomerListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.xvol.chapter3.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.xvol.chapter3.test" />
+      <option name="MAIN_CLASS_NAME" value="org.xvol.chapter3.test.CustomerServiceTest" />
+      <option name="METHOD_NAME" value="getCustomerListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="chapter3 [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CustomerServiceTest.getCustomerListTest" />
+      <item itemvalue="Maven.chapter3 [tomcat7:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.chapter3 [tomcat7:run]" />
+        <item itemvalue="JUnit.CustomerServiceTest.getCustomerListTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7f4a9df-946d-4c1a-9f14-f5ba856d4f42" name="Default" comment="" />
+      <created>1524131948674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524131948674</updated>
+      <workItem from="1524131955312" duration="5018000" />
+      <workItem from="1524198939486" duration="12413000" />
+      <workItem from="1524220571449" duration="16780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CustomerServiceTest_getCustomerListTest - 2018.04.23 at 10h 17m 33s.xml">
+      <configuration name="CustomerServiceTest.getCustomerListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerServiceTest_getCustomerListTest - 2018.04.23 at 10h 17m 37s.xml">
+      <configuration name="CustomerServiceTest.getCustomerListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerServiceTest_getCustomerListTest - 2018.04.23 at 10h 17m 42s.xml">
+      <configuration name="CustomerServiceTest.getCustomerListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerServiceTest_getCustomerListTest - 2018.04.23 at 10h 17m 46s.xml">
+      <configuration name="CustomerServiceTest.getCustomerListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerServiceTest_getCustomerListTest - 2018.04.23 at 10h 17m 51s.xml">
+      <configuration name="CustomerServiceTest.getCustomerListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerServiceTest_getCustomerListTest - 2018.04.23 at 10h 17m 55s.xml">
+      <configuration name="CustomerServiceTest.getCustomerListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerServiceTest_getCustomerListTest - 2018.04.23 at 10h 18m 00s.xml">
+      <configuration name="CustomerServiceTest.getCustomerListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerServiceTest_getCustomerListTest - 2018.04.23 at 10h 18m 05s.xml">
+      <configuration name="CustomerServiceTest.getCustomerListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerServiceTest_getCustomerListTest - 2018.04.23 at 10h 18m 10s.xml">
+      <configuration name="CustomerServiceTest.getCustomerListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerServiceTest_getCustomerListTest - 2018.04.23 at 10h 18m 14s.xml">
+      <configuration name="CustomerServiceTest.getCustomerListTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34211000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.09594883" side_tool="true" visible="true" weight="0.39173013" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.12686567" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32942432" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.9040512" visible="true" weight="0.39173013" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49410996" weight="0.32962137" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49946696" weight="0.3297062" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" sideWeight="0.49803665" weight="0.32962137" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934554" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4947644" weight="0.32962137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20842217" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986911" weight="0.33741647" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="82" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/customer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-dbcp2/2.2.0/commons-dbcp2-2.2.0-sources.jar!/org/apache/commons/dbcp2/BasicDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/xvol/chapter3/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/xvol/chapter3/test/CustomerServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/util/ReflectionUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/ConfigHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/util/PropsUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="52" column="59" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
+          <folding>
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2128">
+          <caret line="112" column="21" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/xvol/chapter3/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/xvol/chapter3/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/xvol/chapter3/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/IocHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="43" column="56" lean-forward="true" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/util/CastUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-dbcp2/2.2.0/commons-dbcp2-2.2.0.jar!/org/apache/commons/dbcp2/BasicDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="557" selection-start-line="557" selection-end-line="557" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-dbcp2/2.2.0/commons-dbcp2-2.2.0-sources.jar!/org/apache/commons/dbcp2/BasicDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/org.xvol:chapter3:1.0.0">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>org.xvol:chapter3:1.0.0</OriginalElement>
+          <nodes>
+            <node x="499.56944444444446" y="260.0">org.xvol:chapter3:1.0.0</node>
+            <node x="854.75" y="180.0">org.xvol:smart-framework:jar:1.0.0</node>
+            <node x="1383.75" y="80.0">org.xvol:smart-framework:jar:1.0.0/javax.servlet:jstl:jar:1.2</node>
+            <node x="1260.75" y="80.0">org.xvol:smart-framework:jar:1.0.0/org.slf4j:slf4j-log4j12:jar:1.7.25</node>
+            <node x="1318.0" y="0.0">org.xvol:smart-framework:jar:1.0.0/org.slf4j:slf4j-log4j12:jar:1.7.25/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="1237.0" y="0.0">org.xvol:smart-framework:jar:1.0.0/org.slf4j:slf4j-log4j12:jar:1.7.25/log4j:log4j:jar:1.2.17</node>
+            <node x="1083.75" y="80.0">org.xvol:smart-framework:jar:1.0.0/mysql:mysql-connector-java:jar:5.1.18</node>
+            <node x="930.75" y="80.0">org.xvol:smart-framework:jar:1.0.0/commons-dbutils:commons-dbutils:jar:1.7</node>
+            <node x="779.75" y="80.0">org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-dbcp2:jar:2.2.0</node>
+            <node x="858.0" y="0.0">org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-dbcp2:jar:2.2.0/org.apache.commons:commons-pool2:jar:2.5.0</node>
+            <node x="699.0" y="0.0">org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-dbcp2:jar:2.2.0/commons-logging:commons-logging:jar:1.2</node>
+            <node x="464.00000000000006" y="80.0">org.xvol:smart-framework:jar:1.0.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5</node>
+            <node x="530.0" y="0.0">org.xvol:smart-framework:jar:1.0.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="403.00000000000006" y="0.0">org.xvol:smart-framework:jar:1.0.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-core:jar:2.9.5</node>
+            <node x="318.00000000000006" y="80.0">org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-lang3:jar:3.7</node>
+            <node x="136.0" y="80.0">org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-collections4:jar:4.1</node>
+            <node x="30.0" y="180.0">junit:junit:jar:4.12</node>
+            <node x="0.0" y="80.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.xvol:smart-framework:jar:1.0.0" target="org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-collections4:jar:4.1">
+              <point x="-58.18749999999994" y="-15.0" />
+              <point x="863.0625000000001" y="160.0" />
+              <point x="217.0" y="160.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0" target="org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-lang3:jar:3.7">
+              <point x="-41.56249999999994" y="-15.0" />
+              <point x="879.6875000000001" y="150.0" />
+              <point x="381.00000000000006" y="150.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5" target="org.xvol:smart-framework:jar:1.0.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-core:jar:2.9.5">
+              <point x="-33.25" y="-15.0" />
+              <point x="497.25000000000006" y="55.0" />
+              <point x="456.50000000000006" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0" target="org.xvol:smart-framework:jar:1.0.0/javax.servlet:jstl:jar:1.2">
+              <point x="58.18750000000006" y="-15.0" />
+              <point x="979.4375000000001" y="160.0" />
+              <point x="1407.75" y="160.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0" target="org.xvol:smart-framework:jar:1.0.0/mysql:mysql-connector-java:jar:5.1.18">
+              <point x="24.937500000000057" y="-15.0" />
+              <point x="946.1875000000001" y="140.0" />
+              <point x="1162.25" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0/org.slf4j:slf4j-log4j12:jar:1.7.25" target="org.xvol:smart-framework:jar:1.0.0/org.slf4j:slf4j-log4j12:jar:1.7.25/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="25.75" y="-15.0" />
+              <point x="1338.0" y="55.0" />
+              <point x="1357.0" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0" target="org.xvol:smart-framework:jar:1.0.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5">
+              <point x="-24.937499999999943" y="-15.0" />
+              <point x="896.3125000000001" y="140.0" />
+              <point x="530.5" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0/org.slf4j:slf4j-log4j12:jar:1.7.25" target="org.xvol:smart-framework:jar:1.0.0/org.slf4j:slf4j-log4j12:jar:1.7.25/log4j:log4j:jar:1.2.17">
+              <point x="-25.75" y="-15.0" />
+              <point x="1286.5" y="55.0" />
+              <point x="1267.5" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-dbcp2:jar:2.2.0" target="org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-dbcp2:jar:2.2.0/org.apache.commons:commons-pool2:jar:2.5.0">
+              <point x="32.75" y="-15.0" />
+              <point x="878.0" y="55.0" />
+              <point x="922.0" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:chapter3:1.0.0" target="org.xvol:smart-framework:jar:1.0.0">
+              <point x="20.75" y="-15.0" />
+              <point x="561.8194444444445" y="235.0" />
+              <point x="921.25" y="235.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-dbcp2:jar:2.2.0" target="org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-dbcp2:jar:2.2.0/commons-logging:commons-logging:jar:1.2">
+              <point x="-32.75" y="-15.0" />
+              <point x="812.5" y="55.0" />
+              <point x="768.5" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:chapter3:1.0.0" target="junit:junit:jar:4.12">
+              <point x="-20.75" y="-15.0" />
+              <point x="520.3194444444445" y="235.0" />
+              <point x="58.0" y="235.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0" target="org.xvol:smart-framework:jar:1.0.0/commons-dbutils:commons-dbutils:jar:1.7">
+              <point x="8.312500000000057" y="-15.0" />
+              <point x="929.5625000000001" y="130.0" />
+              <point x="997.25" y="130.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0" target="org.xvol:smart-framework:jar:1.0.0/org.slf4j:slf4j-log4j12:jar:1.7.25">
+              <point x="41.56250000000006" y="-15.0" />
+              <point x="962.8125000000001" y="150.0" />
+              <point x="1312.25" y="150.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5" target="org.xvol:smart-framework:jar:1.0.0/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="33.25" y="-15.0" />
+              <point x="563.75" y="55.0" />
+              <point x="604.5" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.xvol:smart-framework:jar:1.0.0" target="org.xvol:smart-framework:jar:1.0.0/org.apache.commons:commons-dbcp2:jar:2.2.0">
+              <point x="-8.312499999999943" y="-15.0" />
+              <point x="912.9375000000001" y="130.0" />
+              <point x="845.25" y="130.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6783746556473829" x="344.0" y="84.0" />
+          <SelectedNodes>
+            <node>junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node>org.xvol:chapter3:1.0.0</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/xvol/chapter3/test/CustomerServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/util/PropsUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/smart.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/bean/Request.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#678#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/ConfigHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/HelperLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/util/ClassUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/BeanHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/ClassHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/ControllerHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="60" column="61" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/util/ReflectionUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xvol/smart-framework/1.0.0/smart-framework-1.0.0.jar!/org/xvol/framework/helper/DatabaseHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/customer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/customer_edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/xvol/chapter3/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/xvol/chapter3/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-565">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>chapter3:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42068964" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>chapter3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.xvol:smart-framework:1.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42068964" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
